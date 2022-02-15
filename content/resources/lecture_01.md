@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-440-analysis-of-biological-networks-be-440-fall-2004/1a120eef89a94f4810cc203d6813b9f5_lecture_01.pdf
+file: /media/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/1a120eef89a94f4810cc203d6813b9f5_lecture_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_01.pdf
 uid: 1a120eef-89a9-4f48-10cc-203d6813b9f5
