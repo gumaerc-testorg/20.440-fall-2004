@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 450ba3f0-7a5a-0dda-2076-2f27f1564d85
 resourcetype: Document
 title: grant_appl_ram.pdf
 uid: cfb105c7-969d-dc80-5d1b-a2f3fd83e111

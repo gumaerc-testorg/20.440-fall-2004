@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 450ba3f0-7a5a-0dda-2076-2f27f1564d85
 resourcetype: Document
 title: mam_epi_m_ll_bw.pdf
 uid: 6a05a375-79fb-0309-7640-a1e583a2d90b

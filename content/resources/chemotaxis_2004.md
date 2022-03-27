@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 450ba3f0-7a5a-0dda-2076-2f27f1564d85
 resourcetype: Document
 title: chemotaxis_2004.pdf
 uid: 28185507-acc3-b553-7d5d-22095043624b
