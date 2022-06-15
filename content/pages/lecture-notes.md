@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -44,7 +45,7 @@ Model networks involved in signaling - Signals that start outside of the cell (r
 
 Information flow in the reverse direction - from DNA to RNA to protein (the central dogma)
 
-Review of regulatory circuits and introduction to the concept of evolutionary genomics ([PDF]({{< baseurl >}}/resources/be_440_sep_10_04))
+Review of regulatory circuits and introduction to the concept of evolutionary genomics ({{% resource_link e8cfe036-f3f6-c232-772e-36200ca2fba4 "PDF" %}})
 
 Key Issues: DNA replication and repair errors lead to mutations. Loss of mismatch repair leads to a hyper-Rec phenotype, which facilitates horizontal gene transfer (antibiotic resistance, etc.)
 
@@ -57,7 +58,7 @@ Key Issues: DNA replication and repair errors lead to mutations. Loss of mismatc
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Decoding Information I (Transcription Regulation) ([PDF]({{< baseurl >}}/resources/be440sept152004x))
+Decoding Information I (Transcription Regulation) ({{% resource_link cbdd03fb-c22d-fa28-6b78-6a72885348cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Individual Homework Assignments
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Decoding Information II (Translation) ([PDF]({{< baseurl >}}/resources/be440sept222004x))
+Decoding Information II (Translation) ({{% resource_link cbb1586d-d197-1f94-d65d-04908e352bc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ How to Write an NIH Grant Proposal
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of the Interferon Network (The JAK/STAT system) ([PDF]({{< baseurl >}}/resources/notes20041008))
+Analysis of the Interferon Network (The JAK/STAT system) ({{% resource_link 284f2a70-c290-8cf7-680c-b060d31deb45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +133,7 @@ Analysis of the Interferon Network (The JAK/STAT system) ([PDF]({{< baseurl >}}/
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of the Interferon Network ([PDF]({{< baseurl >}}/resources/be440oct132004x))
+Analysis of the Interferon Network ({{% resource_link a2a0cb49-c686-7ec6-9b3b-d9a995915c7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +151,7 @@ Analysis of the Interferon Network (cont.)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of the Interferon Network (cont.) ([PDF]({{< baseurl >}}/resources/be_440_oct_20_04))
+Analysis of the Interferon Network (cont.) ({{% resource_link 8de3e2d5-9530-6445-c76d-1d019c98a344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +171,7 @@ Roundtable 1: Students Present Model Projects on Apoptosis
 {{< tdopen >}}
 
 
-Chemotaxis I - How Salvage Pathways Supplement Core Biochemical Pathways ([PDF]({{< baseurl >}}/resources/be440oct272004))
+Chemotaxis I - How Salvage Pathways Supplement Core Biochemical Pathways ({{% resource_link 5c5e6a45-74c0-3562-a3b2-b21597c7e82f "PDF" %}})
 
 The Che System
 

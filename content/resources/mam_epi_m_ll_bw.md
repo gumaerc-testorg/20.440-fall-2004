@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/6a05a37579fb03097640a1e583a2d90b_mam_epi_m_ll_bw.pdf
+file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/6a05a37579fb03097640a1e583a2d90b_mam_epi_m_ll_bw.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

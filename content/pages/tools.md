@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides links to tools for molecular visualization and
+  finding structures to view. '
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
