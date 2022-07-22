@@ -5,6 +5,7 @@ file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/37468cfcc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: mam_ep_morp_ii.pdf
 uid: 37468cfc-c379-068e-58da-07cf54141722
 ---
 Lecture presentation.
-
