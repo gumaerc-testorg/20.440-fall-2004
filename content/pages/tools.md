@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'This section provides links to tools for molecular visualization and
+  finding structures to view. '
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: f0e682ad-7bb3-36c7-f223-70317318eb02
 ---

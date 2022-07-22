@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for course readings, organized
+  by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9e1501f6-4478-4d08-87db-5385c015d818
 ---
@@ -98,7 +103,7 @@ Individual Homework Assignments
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Macromolecular Structure Page]({{< baseurl >}}/pages/tools) (Includes links to genomics and proteomics databases.)
+{{% resource_link f0e682ad-7bb3-36c7-f223-70317318eb02 "Macromolecular Structure Page" %}} (Includes links to genomics and proteomics databases.)
 {{< tdclose >}}
 
 {{< trclose >}}
