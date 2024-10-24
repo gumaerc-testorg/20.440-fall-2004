@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/1a120eef89a94f4810cc203d6813b9f5_lecture_01.pdf
+file: /ol-ocw-studio-app/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/1a120eef89a94f4810cc203d6813b9f5_lecture_01.pdf
 file_size: 458882
 file_type: application/pdf
 learning_resource_types:

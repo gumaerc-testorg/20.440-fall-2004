@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on writing a grant application and other matters
   associated with the grant process.
-file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/cfb105c7969ddc805d1ba2f3fd83e111_grant_appl_ram.pdf
+file: /ol-ocw-studio-app/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/cfb105c7969ddc805d1ba2f3fd83e111_grant_appl_ram.pdf
 file_size: 130336
 file_type: application/pdf
 learning_resource_types:
