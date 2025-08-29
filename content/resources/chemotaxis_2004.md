@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/28185507acc3b5537d5d22095043624b_chemotaxis_2004.pdf
+file: /ol-ocw-studio-app/courses/20-440-analysis-of-biological-networks-be-440-fall-2004/28185507acc3b5537d5d22095043624b_chemotaxis_2004.pdf
 file_size: 225350
 file_type: application/pdf
 learning_resource_types:
