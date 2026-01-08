@@ -22,7 +22,7 @@ There are two examinations during the course, which have the goal of preparing 
 
 Readings are in the form of primary scientific papers, reviews, and selected chapters from texts.
 
-The proposal is written in the {{% resource_link "6f136494-1541-4f39-82cd-3c409016c525" "NSF format" %}} or in that used by investigators applying for a grant from the National Institutes of Health.
+The proposal is written in the [NSF format](http://www.nsf.gov/pubs/2004/nsf042/start.htm) or in that used by investigators applying for a grant from the National Institutes of Health.
 
 Course Description
 ------------------
